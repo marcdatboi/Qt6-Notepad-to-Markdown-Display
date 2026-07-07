@@ -46,4 +46,4 @@
 
 ### Links & Images
 * \[text]\(https:\//your/link/here) = Link
-* !\[text]\(your_image.png)
+* !\[text]\(your_image.png) = Image
